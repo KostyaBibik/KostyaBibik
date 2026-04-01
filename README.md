@@ -42,9 +42,9 @@ Unity Developer with 6+ years of commercial experience. I specialize in the full
 
 to see my approach to code:
 
-- **[Words](https://github.com/KostyaBibik/Words)** — мобильная головоломка. Remote Config, MVP, Addressables.
-- **[MatrixMatcher](https://github.com/KostyaBibik/MatrixMatcher)** — визуализация матриц. JSON, Zenject.
-- **[TrainsOnGraph](https://github.com/KostyaBibik/TrainsOnGraph)** — симуляция ресурсов на графе. Zenject, State Machine, UniRx.
+- **[Words](https://github.com/KostyaBibik/Words)** — mobile puzzle game. Remote Config, MVP, Addressables.
+- **[MatrixMatcher](https://github.com/KostyaBibik/MatrixMatcher)** — visualization of matrices. JSON, Zenject.
+- **[TrainsOnGraph](https://github.com/KostyaBibik/TrainsOnGraph)** — simulation of resources on a graph. Zenject, State Machine, UniRx.
 - **[SevenMoreLess](https://github.com/KostyaBibik/SevenMoreLess)** — Roll Dices :D. Zenject, UniRx.
 
 *Pet projects that are already somewhat outdated in terms of how I approach the organization of the code and the project*
