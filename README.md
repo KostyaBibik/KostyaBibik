@@ -8,12 +8,13 @@
 
 Продуктовый Unity-разработчик с **6+ годами коммерческого опыта**. Специализируюсь на полном цикле разработки: от быстрого прототипирования гиперказуальных игр до масштабируемой архитектуры midcore-проектов. Работал как соло-разработчиком (релизы в Google Play), так и в командах с налаженными процессами CI/CD и код-ревью.
 
-<div align="center">
+</div>
   
 ## 🛠 Tech Stack
 
 </div>
 ---
+<div align="left">
 
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> 
