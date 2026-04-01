@@ -8,7 +8,7 @@
 
 <div align="center">
 
-#### Unity Developer with 6+ years of commercial experience. I specialize in the full mobile game development cycle — from prototype to Google Play release. I've worked both as a solo developer and in teams, focusing on modular architecture and performance optimization.
+#### Unity Developer with 6+ years of commercial experience. I specialize in the full mobile game development cycle — from prototype to store release. I've worked both as a solo developer and in teams, focusing on modular architecture and performance optimization.
 
 </div>
 
