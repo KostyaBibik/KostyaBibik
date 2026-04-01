@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi, I'm Kostya B 👋
+# Hi, I'm Kostya 👋
 
 ### Unity Developer | Mobile & Cross‑Platform
 
