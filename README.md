@@ -1,6 +1,6 @@
 <div align="center">
   
-# Привет, я Константин Бибик 👋
+# Hi, I'm Kostya B 👋
 
 ### Unity Developer | Mobile & Cross‑Platform
 
