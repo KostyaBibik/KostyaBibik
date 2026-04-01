@@ -8,7 +8,7 @@
 
 <div align="center">
 
-Продуктовый Unity-разработчик с **6+ годами коммерческого опыта**. Специализируюсь на полном цикле разработки: от быстрого прототипирования гиперказуальных игр до масштабируемой архитектуры midcore-проектов. Работал как соло-разработчиком (релизы в Google Play), так и в командах с налаженными процессами CI/CD и код-ревью.
+Unity Developer with 6+ years of commercial experience. I specialize in the full mobile game development cycle — from prototype to Google Play release. I've worked both as a solo developer and in teams, focusing on modular architecture and performance optimization.
 
 </div>
 
@@ -48,6 +48,8 @@ to see my approach to code:
 - **[SevenMoreLess](https://github.com/KostyaBibik/SevenMoreLess)** — архитектура с чистым UI. Zenject, UniRx.
 
 *Pet‑проекты, которые уже несколько устрарели в плане того, как я подхожу к организации кода и проекта*
+
+<br/>
 
 ## 📫 Contact
 
