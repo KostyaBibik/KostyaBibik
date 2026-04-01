@@ -47,10 +47,17 @@ to see my approach to code:
 - **[TrainsOnGraph](https://github.com/KostyaBibik/TrainsOnGraph)** — симуляция ресурсов на графе. Zenject, State Machine, UniRx.
 - **[SevenMoreLess](https://github.com/KostyaBibik/SevenMoreLess)** — Roll Dices :D. Zenject, UniRx.
 
-*Pet‑проекты, которые уже несколько устрарели в плане того, как я подхожу к организации кода и проекта*
+*Pet projects that are already somewhat outdated in terms of how I approach the organization of the code and the project*
 
 <br/>
 
 ## 📫 Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kostyaBibik)
+
+<br>
+<div align="center">
+  
+![snake gif](https://github.com/KostyaBibik/KostyaBibik/blob/output/github-snake-dark.svg)
+
+</div>
