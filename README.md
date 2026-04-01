@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Konstantin Bibik
 
-<!--
-**KostyaBibik/KostyaBibik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Unity Developer with 6+ years of experience
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎮 Full-cycle game development (idea → release)
+- 🧠 Architecture: Zenject, DI, scalable systems
+- ⚡ Performance optimization (60 FPS, memory, loading time)
+- 🤖 Using AI tools in development pipeline
+
+---
+
+## 🛠 Tech Stack
+
+- Unity, C#
+- Zenject, UniTask, UniRx
+- Addressables
+- ECS (Entitas)
+- Firebase, GameAnalytics
+- AdMob, Unity Ads
+
+---
+
+## 📱 My Projects
+
+- Mafia Birmingham (Google Play)
+- Mafia Stories Idle Tycoon (Google Play)
+
+---
+
+## 📫 Contact
+
+- Email: kostya.bibik02@mail.ru
