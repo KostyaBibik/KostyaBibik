@@ -38,12 +38,16 @@
 
 </div>
 
-## 📱 My Projects
+## 📂 Take a look
 
-- Mafia Birmingham (Google Play)
-- Mafia Stories Idle Tycoon (Google Play)
+to see my approach to code:
 
----
+- **[TrainsOnGraph](https://github.com/KostyaBibik/TrainsOnGraph)** — симуляция ресурсов на графе. Zenject, State Machine, UniRx.
+- **[Words](https://github.com/KostyaBibik/Words)** — мобильная головоломка. Remote Config, MVP, Addressables.
+- **[MatrixMatcher](https://github.com/KostyaBibik/MatrixMatcher)** — визуализация матриц. JSON, Zenject.
+- **[SevenMoreLess](https://github.com/KostyaBibik/SevenMoreLess)** — архитектура с чистым UI. Zenject, UniRx.
+
+*Pet‑проекты, которые уже несколько устрарели в плане того, как я подхожу к организации кода и проекта*
 
 ## 📫 Contact
 
