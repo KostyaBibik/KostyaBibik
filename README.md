@@ -45,7 +45,7 @@ to see my approach to code:
 - **[Words](https://github.com/KostyaBibik/Words)** — mobile puzzle game. Remote Config, MVP, Addressables.
 - **[MatrixMatcher](https://github.com/KostyaBibik/MatrixMatcher)** — visualization of matrices. JSON, Zenject.
 - **[TrainsOnGraph](https://github.com/KostyaBibik/TrainsOnGraph)** — simulation of resources on a graph. Zenject, State Machine, UniRx.
-- **[SevenMoreLess](https://github.com/KostyaBibik/SevenMoreLess)** — Roll Dices :D. Zenject, UniRx.
+- **[SevenMoreLess](https://github.com/KostyaBibik/SevenMoreLess)** — roll Dices :D. Zenject, UniRx.
 
 *Pet projects that are already somewhat outdated in terms of how I approach the organization of the code and the project*
 
